@@ -327,6 +327,11 @@ a:hover {
   height: auto;
   width: 100%;
 }
+.left img {
+    height: auto;
+    width: 100%;
+    margin-top: 15px;
+  }
 
 .button {
   display: inline-block;
